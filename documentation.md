@@ -5,13 +5,13 @@ Aplikacia sluzi pre ludi, ktori si chcu zabehat. Pouzivatelom je ponuknutych nie
 - vyhladanie vsetkych fitness centier v okruhu 500 metrov.
 
 Scenar 1:
-![Screenshots](Screen1.JPG)
+![Screenshot](Screen1.jpg)
 
 Scenar 2:
-![Screenshots](Screen2.JPG)
+![Screenshot](Screen2.jpg)
 
 Scenar 3:
-![Screenshots](Screen3.JPG)
+![Screenshot](Screen3.jpg)
 
 # Frontend
 Graficke pouzivatelske rozhranie pozostava z dvoch casti:
