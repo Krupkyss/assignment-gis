@@ -1,0 +1,37 @@
+﻿body {
+    margin: 0;
+    padding: 0;
+    background: lightgreen !important;
+}
+
+#grad {
+    background-image: linear-gradient(white, gray);
+}
+
+#gradn {
+    background-image: linear-gradient(to top, white, gray);
+}
+
+#map {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    width: 80%;
+}
+
+#menu {
+    position: relative;
+    float: right;
+    width: 20%;
+    background: lightgreen !important;
+    height: 100%;
+}
+
+.marker {
+    background-image: url('Icons/marker-15.svg');
+    background-size: cover;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    cursor: pointer;
+}
